@@ -58,6 +58,8 @@ forever start FibonacciApp.js
 8. Monitoree y verifique que se creen más instancias.
 9. Documente el tutorial en GitHub con código, texto, e imágenes.
 
+Nota: El programa utilizado en este Lab (Fibonacci App) fue implementado el semestre pasado en el curso de ARSW.
+
 ## License
 [MIT License ](/LICENSE)
 
